@@ -49,5 +49,9 @@ minute discussion.
 Answer the following questions: 
 
 1. What new insights came out of the discussion?
-2. Was there disagreement? Why? 
-3. What was the consensus about the work?
+   1. We discussed the flexibility of the PUMP and all other architecture we learned.
+   2. We discussed the viability of the PUMP.
+2. Was there disagreement? Why?
+3. What was the consensus about the work? 
+   1. We think PUMP is a novel framework but not few companies would adopt it due to it lacks portability. 
+
